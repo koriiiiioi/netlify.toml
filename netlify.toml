@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/"
-  to = "https://example.com"
+  to = "https://badge-req-sub.netlify.app"
   status = 302
   force = true
